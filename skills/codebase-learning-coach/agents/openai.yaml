@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Learning Coach"
+  short_description: "用学习卡片分阶段引导新手逐步读懂陌生代码库内容和结构"
+  default_prompt: "Use $codebase-learning-coach to guide me through this unfamiliar codebase one learning card at a time."
